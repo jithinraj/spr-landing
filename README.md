@@ -17,7 +17,3 @@ To edit and create content through your own Notion page, [sign up for Notion](ht
 ## Deploying
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fspr-landing&env=PAGE_ID)
-
-## More Examples
-
-- [Notion Blog](https://github.com/ijjk/notion-blog)
